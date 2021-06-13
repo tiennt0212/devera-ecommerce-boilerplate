@@ -43,6 +43,16 @@ cd ./packages/db
 
 # run docker compose
 docker-compose up -d
+```
+
+### Testing
+
+https://docs.mongodb.com/drivers/node/current/quick-start/
+
+```bash
+## testing
+# install dependency
+npm i
 
 # open index.js and add testing script
 # run testing script
