@@ -35,6 +35,20 @@ lerna bootstrap
 - Our back-end code will be located at: [./packages/ec-waa/api](./packages/ec-waa/api)
 - Our front-end code will be located at: [./packages/ec-web/pages](./packages/ec-web/pages)
 
+## Start mongodb
+
+```bash
+# go to db folder
+cd ./packages/db
+
+# run docker compose
+docker-compose up -d
+
+# open index.js and add testing script
+# run testing script
+node index.js
+```
+
 # Setup
 
 In case, you want to know how the project was initialized.
