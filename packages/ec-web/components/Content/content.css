@@ -1,0 +1,15 @@
+.content {
+    display: inline-block;
+    
+    width: 100px;
+    /* height: 64px; */
+    border-radius: 8px;
+    border: 0px;
+    
+    background-color: #1F1D2B;
+    
+    font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    color: #ABBBC2;
+
+}
